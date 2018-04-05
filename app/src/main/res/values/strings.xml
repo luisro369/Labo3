@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Labo 3</string>
+    <string name="send_text">Send Text</string>
+    <string name="Escribe">Escribir texto</string>
+    <string name="Boton">Send </string>
+
+
+
+</resources>
